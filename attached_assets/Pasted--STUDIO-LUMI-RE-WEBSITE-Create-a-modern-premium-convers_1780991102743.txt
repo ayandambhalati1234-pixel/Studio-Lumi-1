@@ -1,0 +1,583 @@
+# STUDIO LUMIÈRE WEBSITE
+
+Create a modern, premium, conversion-focused website for Studio Lumière, a South African web design agency helping businesses launch, grow, and maintain a professional online presence.
+
+The website should feel trustworthy, modern, premium, and business-focused. Every section should communicate one message:
+
+"We make it easy and affordable for businesses to get online."
+
+The website must offer two ways to work with Studio Lumière:
+
+1. Purchase a website outright.
+2. Rent a website through an affordable monthly plan.
+
+The goal is to remove barriers that prevent small businesses from getting a professional website.
+
+---
+
+# COMPANY INFORMATION
+
+Business Name:
+Studio Lumière
+
+Tagline:
+Websites. Domains. Hosting. Maintenance. All In One Place.
+
+Phone:
++27 79 110 4747
+
+Email:
+[sales@studio-lumiere.net](mailto:sales@studio-lumiere.net)
+
+Website:
+[www.studio-lumiere.net](http://www.studio-lumiere.net)
+
+Location:
+South Africa
+
+---
+
+# BRAND STYLE
+
+Design Style:
+
+* Modern
+* Premium
+* Professional
+* Corporate
+* Minimalist
+* High Conversion
+
+Colour Palette:
+
+* Deep Navy Blue
+* Purple Gradients
+* White
+* Soft Grey
+
+Visual Direction:
+
+* Clean layouts
+* Large typography
+* Modern illustrations
+* Smooth animations
+* Subtle gradients
+* Rounded cards
+* Strong CTAs
+
+The website should feel similar to premium digital agencies.
+
+---
+
+# HERO SECTION
+
+Headline:
+
+## Professional Websites For Growing Businesses
+
+Subheadline:
+
+Whether you want to own your website outright or start with an affordable monthly plan, Studio Lumière makes it easy to establish a professional online presence.
+
+CTA Buttons:
+
+* Get A Free Quote
+* View Packages
+
+Trust Points:
+
+✓ Responsive Design
+
+✓ SEO Ready
+
+✓ Fast Loading
+
+✓ Mobile Friendly
+
+✓ Secure Hosting
+
+✓ Ongoing Support
+
+Hero Image:
+
+Modern web design and business growth illustration.
+
+---
+
+# SOCIAL PROOF SECTION
+
+Headline:
+
+## Helping Businesses Build Credibility Online
+
+Short Copy:
+
+Your website is often the first impression customers have of your business. We help businesses create modern websites that build trust, generate leads, and drive growth.
+
+Statistics:
+
+* Mobile Optimised
+* Fast Performance
+* Professional Design
+* Business Focused Solutions
+
+---
+
+# WHY CHOOSE US
+
+Headline:
+
+## Why Businesses Choose Studio Lumière
+
+Cards:
+
+### Professional Design
+
+Websites designed to build trust and credibility.
+
+### Fast Performance
+
+Optimised for speed and user experience.
+
+### Mobile First
+
+Perfectly responsive on all devices.
+
+### SEO Ready
+
+Built using modern search engine best practices.
+
+### Reliable Support
+
+Ongoing maintenance and assistance.
+
+### Growth Focused
+
+Designed to generate enquiries and sales.
+
+---
+
+# SERVICES SECTION
+
+Headline:
+
+## Services We Provide
+
+Service Cards:
+
+### Website Design
+
+Custom-designed websites tailored to your brand.
+
+### Website Development
+
+Modern websites built using the latest technologies.
+
+### Landing Pages
+
+Designed to maximise conversions.
+
+### E-Commerce Stores
+
+Sell products online with confidence.
+
+### Hosting Solutions
+
+Reliable hosting for businesses of all sizes.
+
+### Website Maintenance
+
+Keep your website secure and updated.
+
+### UI/UX Design
+
+Create seamless customer experiences.
+
+### Digital Marketing
+
+Increase visibility and attract customers.
+
+### Consultation & Strategy
+
+Expert advice to help your business grow online.
+
+### Analytics & Reporting
+
+Track results and improve performance.
+
+---
+
+# TWO WAYS TO WORK WITH US
+
+Headline:
+
+## Choose The Option That Works For Your Business
+
+Subheadline:
+
+Need a website but working with a tight budget? Start with a rental plan. Want complete ownership? Purchase your website outright.
+
+Display two side-by-side cards.
+
+---
+
+### Own Your Website
+
+Pay once and own your website from day one.
+
+Perfect for businesses ready to invest in their long-term online presence.
+
+Benefits:
+
+* Full ownership
+* Once-off payment
+* No website rental fees
+* Professional design
+* Fast turnaround
+
+Button:
+
+View Website Packages
+
+---
+
+### Rent Your Website
+
+Get online immediately without a large upfront investment.
+
+Perfect for startups and small businesses.
+
+Benefits:
+
+* Low monthly cost
+* Website included
+* Hosting included
+* Maintenance included
+* Ongoing support included
+
+Button:
+
+View Rental Plans
+
+---
+
+# WEBSITE PACKAGES
+
+Headline:
+
+## Own Your Website
+
+Subtitle:
+
+Professional websites built specifically for your business.
+
+---
+
+### Launch Landing Page
+
+R2,500
+
+A powerful one-page website designed to launch your brand and generate enquiries.
+
+Includes:
+
+* Responsive Design
+* Basic SEO Setup
+* Contact Form
+* Mobile Optimisation
+* Fast Loading Performance
+
+---
+
+### Business Essentials
+
+R4,500
+
+A professional multi-page website designed to showcase your business.
+
+Includes:
+
+* 3–5 Pages
+* Responsive Design
+* Basic SEO Setup
+* Contact Forms
+* Motion Design
+* Mobile Optimisation
+
+Most Popular
+
+---
+
+### E-Commerce Store
+
+R5,000
+
+A fully functional online store designed to help you sell products online.
+
+Includes:
+
+* Responsive Design
+* SEO Setup
+* Contact Form
+* Motion Design
+* Product Catalogue
+* Shopping Cart
+* E-Commerce Functionality
+
+---
+
+# WEBSITE RENTAL PLANS
+
+Headline:
+
+## Can't Afford A Large Upfront Payment?
+
+Subtitle:
+
+Launch your business online from as little as R750/month.
+
+We build, host, maintain, secure, and support your website while you focus on running your business.
+
+Every rental plan includes:
+
+✓ Website Design
+
+✓ Hosting
+
+✓ Domain Registration
+
+✓ Security
+
+✓ Maintenance
+
+✓ Technical Support
+
+✓ Monthly Backups
+
+✓ Mobile Responsive Design
+
+---
+
+### Starter Website
+
+R750/month
+
+Perfect for businesses that need a simple online presence.
+
+Features:
+
+* 1 Page Website
+* .co.za Domain Included
+* 5GB Hosting
+* Contact Form
+* Basic Security
+* Monthly Backups
+* Website Maintenance
+
+Ideal For:
+
+* Startups
+* Freelancers
+* Local Businesses
+
+---
+
+### Business Website
+
+R2,000/month
+
+A professional multi-page website designed for growing businesses.
+
+Features:
+
+* Up To 3 Pages
+* .co.za Domain Included
+* 15GB Hosting
+* Advanced Security
+* Speed Optimisation
+* Contact Forms
+* Website Maintenance
+* Priority Support
+
+Ideal For:
+
+* Growing Businesses
+* Consultants
+* Service Providers
+
+---
+
+### E-Commerce Rental
+
+R6,000/month
+
+Launch a professional online store without paying a large development fee upfront.
+
+Features:
+
+* Full E-Commerce Website
+* Product Catalogue
+* Shopping Cart
+* Payment Integration
+* 30GB Hosting
+* Advanced Security
+* Speed Optimisation
+* Premium Maintenance
+* Priority Support
+
+Ideal For:
+
+* Online Stores
+* Retail Businesses
+* Growing Brands
+
+---
+
+# OUR PROCESS
+
+Headline:
+
+## How It Works
+
+Step 1:
+Consultation
+
+Understand your goals and business needs.
+
+Step 2:
+Planning
+
+Develop the best solution for your business.
+
+Step 3:
+Design
+
+Create a professional visual experience.
+
+Step 4:
+Development
+
+Build a fast, modern website.
+
+Step 5:
+Launch
+
+Deploy and optimise performance.
+
+Step 6:
+Support
+
+Provide ongoing maintenance and assistance.
+
+---
+
+# TESTIMONIALS
+
+Headline:
+
+## Businesses Trust Studio Lumière
+
+Create realistic testimonials discussing:
+
+* Increased enquiries
+* Better online credibility
+* Improved customer experience
+* Professional support
+* Business growth
+
+---
+
+# FAQ SECTION
+
+Questions:
+
+How much does a website cost?
+
+Can I rent a website instead of buying one?
+
+What is included in the rental plans?
+
+Do you provide hosting?
+
+Do you provide maintenance?
+
+How long does it take to build a website?
+
+Can you redesign an existing website?
+
+Will my website work on mobile devices?
+
+Do you build online stores?
+
+Do you help with SEO?
+
+---
+
+# FINAL CTA
+
+Headline:
+
+## Ready To Grow Your Business Online?
+
+Subheadline:
+
+Whether you want to purchase a website outright or start with a low monthly plan, Studio Lumière can help you build a professional online presence.
+
+Buttons:
+
+* Get A Free Quote
+* Book A Consultation
+
+---
+
+# FOOTER
+
+Studio Lumière
+
+Services:
+
+* Website Design
+* Website Development
+* Hosting
+* Website Rentals
+* Maintenance
+* E-Commerce
+* Digital Marketing
+
+Contact Information:
+
+Phone:
++27 79 110 4747
+
+Email:
+[sales@studio-lumiere.net](mailto:sales@studio-lumiere.net)
+
+Website:
+[www.studio-lumiere.net](http://www.studio-lumiere.net)
+
+Social Media:
+
+* Instagram
+* Facebook
+* LinkedIn
+
+Footer Text:
+
+© Studio Lumière. All Rights Reserved.
+
+---
+
+# ADDITIONAL REQUIREMENTS
+
+* Fully responsive
+* SEO-friendly
+* Conversion-focused
+* Framer Motion animations
+* Modern UI/UX
+* Accessibility compliant
+* Fast loading
+* Professional illustrations
+* Strong call-to-actions throughout
+* Lead capture forms on multiple sections
+* Premium digital agency aesthetic
+* Clear emphasis on affordability, flexibility, trust, and business growth

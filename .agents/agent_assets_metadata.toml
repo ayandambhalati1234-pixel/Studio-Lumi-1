@@ -1,0 +1,8 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "y0y8g9b4I5zbUp8qMK8rI"
+uri = "file://artifacts/studio-lumiere/public/hero-illustration.png"
+type = "image"
+title = "agency workspace illustration"
